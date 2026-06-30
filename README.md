@@ -1,6 +1,3 @@
-[3.md](https://github.com/user-attachments/files/29462930/3.md)
-
-
 ## Overview
 
 **Amazon Sales Pulse** is an end-to-end data analytics project that turns raw Amazon-style transaction data into a business-ready intelligence layer. It walks through the full analytics lifecycle — raw ingestion, data cleaning, exploratory analysis, SQL-driven business questions, visualization, and a live, interactive dashboard — using a single, reproducible dataset of orders spanning multiple years, product categories, and customer regions.
@@ -439,16 +436,18 @@ in the Software without restriction...
 
 ---
 
-## Author
+## 👤 Author
 
 **HARI BABU C H**
 
-- **Role:** Frontend Developer | Data Analyst
-- **GitHub:** <https://github.com/haribabux7>
-- **LinkedIn:** <https://www.linkedin.com/in/haribabux7>
-- **Portfolio:** <https://www.haribabu.me>
-- **Email:** <haribabuc458@gmail.com>
+Frontend Developer | Data Analyst | Chennai, India
 
+- 🌐 Portfolio: [https://www.haribabu.me](https://www.haribabu.me)
+- 💼 LinkedIn: [https://www.linkedin.com/in/haribabux8](https://www.linkedin.com/in/haribabux8)
+- 🐙 GitHub: [https://github.com/haribabux8](https://github.com/haribabux8)
+- 📧 Email: [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
+
+---
 ---
 
 ## Acknowledgements
@@ -459,13 +458,3 @@ in the Software without restriction...
 - **Contributors** — thanks to every analyst, mentor, and reviewer who shaped this project.
 
 ---
-
-## Project Information
-
-| Field | Value |
-|---|---|
-| Version | 1.0.0 |
-| Designed Date | November 2025 |
-| Author | Hari Babu C H |
-| License | MIT |
-| Status | Active |
